@@ -3,7 +3,7 @@ import streamlit as st
 
 
 def get_response(prompt, temperature, max_tokens, persona):
-    client = groq.Client(api_key="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")  # Replace with your Groq API Key
+    client = groq.Client(api_key="your_GROQ API KEY")  # Replace with your Groq API Key
     response = client.chat.completions.create(
         model="llama3-70b-8192",
         messages=[
