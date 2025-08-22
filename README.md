@@ -1,5 +1,3 @@
-Sassy Chatbot 
-Here is a high-quality, professional `README.md` for the GitHub repository `keyurbhatiya/Sassy-Chatbot`:
 
 **Sassy Chatbot**
 ================
